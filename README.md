@@ -1,6 +1,6 @@
 # JWKS Server
 
-Project 1 - MANAN PURI
+Project 1 - MANAN PURI (MP1038)
  RESTful JWKS server built with Flask.
 Generates RSA keys, serves the public ones through a JWKS endpoint and
 hands out signed JWTs through an auth endpoint including a version signed
