@@ -41,4 +41,4 @@ pytest --cov=. --cov-report=term-missing
 - `test_app.py` - tests
 - `requirements.txt`
 
-Keys are just kept in memory, no persistence, since that's all this assignment needs.
+Keys are just kept in memory, no persistence.
